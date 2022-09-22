@@ -1,0 +1,3 @@
+/Users/qmtxy/CLionProjects/lca(binary)/cmake-build-debug/CMakeFiles/lca_binary_.dir
+/Users/qmtxy/CLionProjects/lca(binary)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qmtxy/CLionProjects/lca(binary)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
