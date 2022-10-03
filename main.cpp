@@ -58,7 +58,8 @@ int main() {
 	t_in.resize(n);
 	t_out.resize(n);
 	// l - максимальная степень двойки, которая меньше n
-	while ((1 << l) <= n) l++;
+//	while ((1 << l) <= n) l++;
+	l = int(log2(n));
 	for (int i = 0; i < n; i++) {
 		up[i].resize(l);
 	}
